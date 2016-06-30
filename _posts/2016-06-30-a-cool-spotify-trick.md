@@ -16,6 +16,7 @@ The following trick relates on **how to play songs on-demand from mobile with th
 
 <h1 style="color:black !important">Steps:</h1>
 
+
 **1)** Open Spotify on your computer
 
 **2)** Go on your phone and start playing one song (whichever it lets you, it doesn't matter)
