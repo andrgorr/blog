@@ -14,7 +14,7 @@ Yesterday I found a small cool caveat in the Spotify software I'm very sure most
 
 The following trick relates on **how to play songs on-demand from mobile with the free version**. You will need a computer, a spotify account, and a smartphone with internet connection.
 
-### Steps
+<h1 style="color:black !important">Steps:</h1>
 
 **1)** Open Spotify on your computer
 
