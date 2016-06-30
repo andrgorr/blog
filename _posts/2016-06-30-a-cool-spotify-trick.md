@@ -30,4 +30,4 @@ The following trick relates on **how to play songs on-demand from mobile with th
 
 **6)** Change the available devices part back to your phone and not your PC, and you are ready to go!
 
-Enjoy! :sparkles:
+Enjoy! ![sparkles](http://pix.iemoji.com/images/emoji/apple/ios-9/33/0136.png)
